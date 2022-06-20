@@ -1,0 +1,1 @@
+Clone this repo "https://github.com/dockersamples/example-voting-app" and then run "docker-compose up -d" command to find UI of voting and result application
